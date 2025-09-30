@@ -1,5 +1,7 @@
 Flask==2.3.2
+Werkzeug==2.3.7
 pandas==2.1.1
 numpy==1.26.4
 tensorflow==2.15.0
 opencv-python==4.9.0.72
+h5py==3.10.0
