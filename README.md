@@ -12,6 +12,8 @@ This project is a Machine Learning API developed using Flask. It allows users to
 ML_Application_using_Flask/
 │
 ├── app.py # Flask application with API endpoints
+├── demo/ # Folder containing demo video
+│   └── demo.mp4 # Short demo of the project functionality
 ├── requirements.txt # Python dependencies
 ├── A_Z_small.csv # Original dataset (optional)
 ├── train_small.csv # Training dataset
